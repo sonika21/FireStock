@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d34f8192eca7ee5f7225a19cc848a6a",
+    "revision": "69b07d72a23189e6195acf4caac835d0",
     "url": "/FireStock/index.html"
   },
   {
-    "revision": "c9f2469451eb56b575ba",
+    "revision": "d37d1e227424e08847cb",
     "url": "/FireStock/static/css/main.3ef312fa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FireStock/static/js/2.cf4ebbbd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9f2469451eb56b575ba",
-    "url": "/FireStock/static/js/main.ec46ff52.chunk.js"
+    "revision": "d37d1e227424e08847cb",
+    "url": "/FireStock/static/js/main.7285e3d1.chunk.js"
   },
   {
     "revision": "ae5997aae110c6f33260",
